@@ -1,0 +1,48 @@
+---
+title: "Run circos program"
+author: "Rossella Alfano, Brigitte Reimann, Congrong Wang and Michelle Plusquin"
+output:
+  html_document: default
+  word_document: default
+---
+
+In this tutorial we will write a script to run the circus program to display a multi-omics matrix. You can download the data you need for this tutorial in the “circos_files” folder [here](xxx). 
+
+This folder contains 4 files generated via this tutorial:
+
+- karyotype.txt, band_labels.txt and labels.txt can be generated following this tutorial [here](link)
+
+- links.txt can be generated following this tutorial [here](link)
+
+3 configuration files (provided):
+
+- ideogram.conf
+
+- ideogram.lable.conf
+
+- link.conf
+
+2 png output files that are the images that you will generate using the input files and the code provide in this tutorial:
+
+- ideogram.png
+
+- links.png
+
+After downloading and installing circos, copy the “circos_files” folder in the "bin" folder of circos. 
+
+# Code to plot the circos figures
+
+Open the command prompt (e.g. click on windows start menu and type “cmd”) and run the code below. 
+
+The first line that you have to type in your command prompt is needed to change the the directory (using "cd") to the location where you stored the “circos” on your computer (you can use the "copy path" button. Please change the path “C:\\circos-0.69-9\\bin” accordingly.
+
+cd C:\\circos-0.69-9\\bin
+
+## Plot the ideogram
+Then, with the next line, you run the circos program using as configuration the file "ideogram_conf.conf" and as output file the file "ideogram.png."
+
+circos -conf circos_files\\ideogram.conf -outputfile circos_files\\ideogram.png 
+
+## Plot the link
+Finally, run the last line below, to run the circos program using as configuration the file "links.conf" and as output file the file "links.png"
+circos -conf circos_files\\links.conf -outputfile circos_files\\links.png
