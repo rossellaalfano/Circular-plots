@@ -34,13 +34,13 @@ Some of these terms may be used interchangeably throughout the workshop, but the
 
 - Ideogram: it is the circular axis of the plot. Ideograms were first used in the genetic field to depict the chromosomes, or region thereof, in images. However, the axes of a circular plot can correspond to an interval of any integer-valued variable. In this tutorial, we use ideograms to depict not different chromosomes, but different omic layers.
 
-- Chromosome: in circos the entire sequence structure needed to be drawn in the ideogram is called chromosome and should be defined in the "karyotype file". In this tutorial, the chromosomes corresponds to each omic layer.
+- Chromosome: in circos the entire sequence structure needed to be drawn in the ideogram is called chromosome and should be defined in the "karyotype file". In this tutorial, the chromosomes correspond omic layers.
 
-- Karyotype file: a file defining the size, identity, label and color of each chromosome. If available, band position can be defined in this file. In our tutorial, the karyotype file includes size, identity, labeland color of each omic layer.
+- Karyotype file: a file defining the size, identity, label and color of each chromosome. If available, band position can be defined in this file. In this tutorial, the karyotype file includes size, identity, labeland color of each omic layer.
 
-- Bands: are highlight in each chromosome depicted in the ideogram. They are used in the genomic context to define cytogenetic bands. In the context of this tutorial, bands are used to group omic features sharing same genomic regions of genes associated to CpGs, same chromosomes, same phyla and same metabolites classes.
+- Bands: are highlights in each chromosome depicted in the ideogram. They are used in the genomic context to define cytogenetic bands. In the context of this tutorial, bands are used to group omic features sharing same genomic regions of genes associated to CpGs, same chromosomes, same phyla and same metabolites classes.
 
-- Labels: define the text that is shown in the circular figure. In this tutorial, labels are used to name each omic layer, each group of omic feature and each omic feature.
+- Labels: define the text that is shown in the circular figure. In this tutorial, labels are used to name each omic layer, each group of omic features and each omic feature.
 
 - Links: are used to show the relationships between positions on axes. In this tutorial, they define the correlation coefficients between the different omic features belonging to the different omic layers.
 
