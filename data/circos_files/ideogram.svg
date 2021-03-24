@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="3000px" height="3000px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="bg">
+<rect x="0" y="0" width="3000px" height="3000px" style="fill:rgb(255,255,255);"/>
+</g>
+<g id="ideograms">
+<path d="M1500.000,405.000 A1095.000,1095.000 40.000 0,1 2585.312,1645.334 L2733.985,1665.243 A1245.000,1245.000 0.000 0,0 1500.000,255.000 Z" style="stroke-linecap:round;fill:rgb(161,217,155);" />
+<path d="M1500.000,405.000 A1095.000,1095.000 40.000 0,1 1616.391,411.203 L1632.335,262.053 A1245.000,1245.000 0.000 0,0 1500.000,255.000 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M1616.391,411.203 A1095.000,1095.000 40.000 0,1 1843.914,460.410 L1891.026,318.000 A1245.000,1245.000 0.000 0,0 1632.335,262.053 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<path d="M1843.914,460.410 A1095.000,1095.000 40.000 0,1 2055.894,556.598 L2132.044,427.365 A1245.000,1245.000 0.000 0,0 1891.026,318.000 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M2055.894,556.598 A1095.000,1095.000 40.000 0,1 2396.042,870.608 L2518.787,784.390 A1245.000,1245.000 0.000 0,0 2132.044,427.365 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<path d="M2396.042,870.608 A1095.000,1095.000 40.000 0,1 2508.837,1074.238 L2647.033,1015.914 A1245.000,1245.000 0.000 0,0 2518.787,784.390 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M2508.837,1074.238 A1095.000,1095.000 40.000 0,1 2576.039,1297.109 L2723.442,1269.316 A1245.000,1245.000 0.000 0,0 2647.033,1015.914 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<path d="M2576.039,1297.109 A1095.000,1095.000 40.000 0,1 2585.312,1645.334 L2733.985,1665.243 A1245.000,1245.000 0.000 0,0 2723.442,1269.316 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<text x="2662.7" y="482.6" font-size="26.0px" font-family="CMUBright-Bold" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(408.8,2662.7,482.6)" >METHYLOME</text>
+<path d="M2530.067,1871.467 A1095.000,1095.000 40.000 0,1 1441.722,2593.448 L1433.738,2743.235 A1245.000,1245.000 0.000 0,0 2671.172,1922.352 Z" style="stroke-linecap:round;fill:rgb(66,146,198);" />
+<path d="M2530.067,1871.467 A1095.000,1095.000 40.000 0,1 2198.877,2342.968 L2294.614,2458.443 A1245.000,1245.000 0.000 0,0 2671.172,1922.352 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M2198.877,2342.968 A1095.000,1095.000 40.000 0,1 2105.316,2412.479 L2188.236,2537.476 A1245.000,1245.000 0.000 0,0 2294.614,2458.443 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<path d="M2105.316,2412.479 A1095.000,1095.000 40.000 0,1 2004.896,2471.651 L2074.060,2604.753 A1245.000,1245.000 0.000 0,0 2188.236,2537.476 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M2004.896,2471.651 A1095.000,1095.000 40.000 0,1 1898.756,2519.813 L1953.380,2659.514 A1245.000,1245.000 0.000 0,0 2074.060,2604.753 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<path d="M1898.756,2519.813 A1095.000,1095.000 40.000 0,1 1788.097,2556.421 L1827.563,2701.136 A1245.000,1245.000 0.000 0,0 1953.380,2659.514 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M1788.097,2556.421 A1095.000,1095.000 40.000 0,1 1674.175,2581.059 L1698.034,2729.149 A1245.000,1245.000 0.000 0,0 1827.563,2701.136 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<path d="M1674.175,2581.059 A1095.000,1095.000 40.000 0,1 1558.278,2593.448 L1566.262,2743.235 A1245.000,1245.000 0.000 0,0 1698.034,2729.149 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M1558.278,2593.448 A1095.000,1095.000 40.000 0,1 1441.722,2593.448 L1433.738,2743.235 A1245.000,1245.000 0.000 0,0 1566.262,2743.235 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<text x="2365.7" y="2805.0" font-size="26.0px" font-family="CMUBright-Bold" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-33.6,2365.7,2805.0)" >TRANSCRIPTOMICS</text>
+<path d="M1211.903,2556.421 A1095.000,1095.000 40.000 0,1 491.163,1074.238 L352.967,1015.914 A1245.000,1245.000 0.000 0,0 1172.437,2701.136 Z" style="stroke-linecap:round;fill:rgb(255,182,106);" />
+<path d="M1211.903,2556.421 A1095.000,1095.000 40.000 0,1 515.253,1978.852 L380.356,2044.448 A1245.000,1245.000 0.000 0,0 1172.437,2701.136 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M515.253,1978.852 A1095.000,1095.000 40.000 0,1 408.491,1412.634 L258.969,1400.666 A1245.000,1245.000 0.000 0,0 380.356,2044.448 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<path d="M408.491,1412.634 A1095.000,1095.000 40.000 0,1 423.961,1297.109 L276.558,1269.316 A1245.000,1245.000 0.000 0,0 258.969,1400.666 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M423.961,1297.109 A1095.000,1095.000 40.000 0,1 491.163,1074.238 L352.967,1015.914 A1245.000,1245.000 0.000 0,0 276.558,1269.316 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<text x="91.7" y="2184.8" font-size="26.0px" font-family="CMUBright-Bold" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(64.1,91.7,2184.8)" >METABOLOMICS</text>
+<path d="M603.958,870.608 A1095.000,1095.000 40.000 0,1 1268.536,429.743 L1236.829,283.133 A1245.000,1245.000 0.000 0,0 481.213,784.390 Z" style="stroke-linecap:round;fill:rgb(255,242,0);" />
+<path d="M603.958,870.608 A1095.000,1095.000 40.000 0,1 757.249,695.422 L655.502,585.206 A1245.000,1245.000 0.000 0,0 481.213,784.390 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<path d="M757.249,695.422 A1095.000,1095.000 40.000 0,1 1047.533,502.855 L985.551,366.260 A1245.000,1245.000 0.000 0,0 655.502,585.206 Z" style="stroke-linecap:round;fill:rgb(150,150,150);fill-opacity:0.83;" />
+<path d="M1047.533,502.855 A1095.000,1095.000 40.000 0,1 1268.536,429.743 L1236.829,283.133 A1245.000,1245.000 0.000 0,0 985.551,366.260 Z" style="stroke-linecap:round;fill:rgb(255,255,255);fill-opacity:0.83;" />
+<text x="645.9" y="212.5" font-size="26.0px" font-family="CMUBright-Bold" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-33.6,645.9,212.5)" >MICROBIOME</text>
+</g>
+<g id="plot0">
+<g id="plot0-axis">
+</g>
+<line x1='865.9' y1='2576.1' x2='863.9' y2='2579.5' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='863.9' y1='2579.5' x2='859.8' y2='2586.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='859.8' y1='2586.4' x2='857.8' y2='2589.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="863.5" y="2597.9" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-59.5,863.5,2597.9)" >3-Hydroxyhexadecadienoylcarnitine<tspan baseline-shift="-40%" font-size="90%">(</tspan>C16:1)</text>
+<line x1='983.9' y1='2637.4' x2='982.2' y2='2641.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='982.2' y1='2641.0' x2='978.9' y2='2648.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='978.9' y1='2648.3' x2='977.3' y2='2652.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="983.8" y="2659.3" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-65.6,983.8,2659.3)" >9,12-Hexadecadienoylcarnitine<tspan baseline-shift="-40%" font-size="90%">(</tspan>C14:1)</text>
+<line x1='477.9' y1='2217.9' x2='474.7' y2='2220.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='474.7' y1='2220.2' x2='468.1' y2='2224.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='468.1' y1='2224.8' x2='464.8' y2='2227.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="466.8" y="2236.8" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-35.1,466.8,2236.8)" >3-OH-5-tetradecenoylcarnitine<tspan baseline-shift="-40%" font-size="90%">(</tspan>C14:1)</text>
+<line x1='407.4' y1='2105.2' x2='403.9' y2='2107.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='403.9' y1='2107.1' x2='396.9' y2='2111.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='396.9' y1='2111.0' x2='393.4' y2='2113.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="394.3" y="2122.8" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-29.0,394.3,2122.8)" >Trans-2-Dodecenoylcarnitine<tspan baseline-shift="-40%" font-size="90%">(</tspan>C12:1)</text>
+<line x1='652.8' y1='2417.7' x2='650.1' y2='2420.7' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='650.1' y1='2420.7' x2='644.6' y2='2426.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='644.6' y1='2426.6' x2='641.9' y2='2429.5' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="645.9" y="2438.5" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-47.3,645.9,2438.5)" >3,5-Tetradecadiencarnitine<tspan baseline-shift="-40%" font-size="90%">(</tspan>C14:2)</text>
+<line x1='251.4' y1='1466.8' x2='247.4' y2='1466.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='247.4' y1='1466.6' x2='239.4' y2='1466.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='239.4' y1='1466.4' x2='235.4' y2='1466.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="231.2" y="1475.2" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(1.5,231.2,1475.2)" >PC-O<tspan baseline-shift="-40%" font-size="90%">(</tspan>C36:4)<tspan baseline-shift="-40%" font-size="90%">(</tspan>C44H80NO7P)</text>
+<line x1='560.0' y1='2322.5' x2='557.0' y2='2325.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='557.0' y1='2325.1' x2='551.0' y2='2330.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='551.0' y1='2330.4' x2='548.0' y2='2333.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="550.9" y="2342.4" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-41.2,550.9,2342.4)" >Tetradecenoylcarnitine<tspan baseline-shift="-40%" font-size="90%">(</tspan>C14:1)</text>
+<line x1='1107.7' y1='2685.8' x2='1106.5' y2='2689.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1106.5' y1='2689.6' x2='1103.9' y2='2697.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1103.9' y1='2697.2' x2='1102.7' y2='2701.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1110.0" y="2707.6" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-71.7,1110.0,2707.6)" >Dodecanoylcarnitine<tspan baseline-shift="-40%" font-size="90%">(</tspan>C12:0)</text>
+<line x1='755.1' y1='2502.6' x2='752.8' y2='2505.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='752.8' y1='2505.8' x2='748.0' y2='2512.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='748.0' y1='2512.2' x2='745.6' y2='2515.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="750.5" y="2524.0" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-53.4,750.5,2524.0)" >L-Octanoylcarnitine<tspan baseline-shift="-40%" font-size="90%">(</tspan>C8:0)</text>
+<line x1='605.1' y1='628.7' x2='602.3' y2='625.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='602.3' y1='625.9' x2='596.5' y2='620.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='596.5' y1='620.3' x2='593.7' y2='617.5' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="586.6" y="619.0" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(44.2,586.6,619.0)" >Desulfitobacteriales</text>
+<line x1='702.8' y1='538.5' x2='700.3' y2='535.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='700.3' y1='535.4' x2='695.2' y2='529.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='695.2' y1='529.2' x2='692.6' y2='526.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="685.5" y="526.9" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(50.3,685.5,526.9)" >Pseudomonadales</text>
+<line x1='349.3' y1='1985.6' x2='345.6' y2='1987.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='345.6' y1='1987.2' x2='338.2' y2='1990.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='338.2' y1='1990.3' x2='334.5' y2='1991.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="334.4" y="2001.7" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-22.9,334.4,2001.7)" >LysoPC<tspan baseline-shift="-40%" font-size="90%">(</tspan>C18:1)</text>
+<line x1='304.2' y1='1860.6' x2='300.4' y2='1861.7' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='300.4' y1='1861.7' x2='292.7' y2='1864.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='292.7' y1='1864.0' x2='288.9' y2='1865.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="287.7" y="1875.0" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-16.8,287.7,1875.0)" >LysoPC<tspan baseline-shift="-40%" font-size="90%">(</tspan>C18:3)</text>
+<line x1='272.6' y1='1731.4' x2='268.7' y2='1732.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='268.7' y1='1732.2' x2='260.8' y2='1733.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='260.8' y1='1733.6' x2='256.9' y2='1734.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="254.7" y="1744.0" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-10.7,254.7,1744.0)" >LysoPC<tspan baseline-shift="-40%" font-size="90%">(</tspan>C22:5)</text>
+<line x1='262.1' y1='1334.2' x2='258.1' y2='1333.7' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='258.1' y1='1333.7' x2='250.2' y2='1332.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='250.2' y1='1332.6' x2='246.2' y2='1332.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="241.1" y="1340.0" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(7.6,241.1,1340.0)" >Indolelactic<tspan baseline-shift="-40%" font-size="90%">a</tspan>cid</text>
+<line x1='517.6' y1='728.7' x2='514.5' y2='726.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='514.5' y1='726.2' x2='508.2' y2='721.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='508.2' y1='721.3' x2='505.0' y2='718.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="497.3" y="722.3" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(38.1,497.3,722.3)" >Exiguobacterales</text>
+<line x1='924.1' y1='391.7' x2='922.3' y2='388.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='922.3' y1='388.1' x2='918.6' y2='381.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='918.6' y1='381.0' x2='916.7' y2='377.5' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="909.6" y="376.7" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(62.5,909.6,376.7)" >Enterobacterales</text>
+<line x1='2440.0' y1='2322.5' x2='2443.0' y2='2325.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2443.0' y1='2325.1' x2='2449.0' y2='2330.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2449.0' y1='2330.4' x2='2452.0' y2='2333.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2450.7" y="2340.5" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(41.2,2450.7,2340.5)" >LOC100996583</text>
+<line x1='809.6' y1='459.2' x2='807.3' y2='455.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='807.3' y1='455.9' x2='802.9' y2='449.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='802.9' y1='449.2' x2='800.7' y2='445.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="793.5" y="445.9" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(56.4,793.5,445.9)" >Burkholderiales</text>
+<line x1='286.7' y1='1203.6' x2='282.8' y2='1202.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='282.8' y1='1202.6' x2='275.0' y2='1200.7' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='275.0' y1='1200.7' x2='271.1' y2='1199.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="265.3" y="1207.1" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(13.7,265.3,1207.1)" >Unassigned<tspan baseline-shift="-40%" font-size="90%">2</tspan></text>
+<line x1='325.1' y1='1076.3' x2='321.3' y2='1074.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='321.3' y1='1074.9' x2='313.8' y2='1072.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='313.8' y1='1072.2' x2='310.0' y2='1070.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="303.4" y="1077.5" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(19.8,303.4,1077.5)" >Unassigned<tspan baseline-shift="-40%" font-size="90%">5</tspan></text>
+<line x1='255.0' y1='1599.7' x2='251.0' y2='1600.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='251.0' y1='1600.0' x2='243.0' y2='1600.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='243.0' y1='1600.6' x2='239.0' y2='1600.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="235.8" y="1610.2" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-4.6,235.8,1610.2)" >PC<tspan baseline-shift="-40%" font-size="90%">(</tspan>C36:4)</text>
+<line x1='1500.0' y1='2749.0' x2='1500.0' y2='2753.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1500.0' y1='2753.0' x2='1500.0' y2='2761.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1500.0' y1='2761.0' x2='1500.0' y2='2765.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1493.5" y="2769.0" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(90.0,1493.5,2769.0)" >LRRC3-AS1</text>
+<line x1='1954.8' y1='336.8' x2='1956.3' y2='333.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1956.3' y1='333.0' x2='1959.2' y2='325.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1959.2' y1='325.6' x2='1960.7' y2='321.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1968.2" y="320.5" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(291.4,1968.2,320.5)" >GORASP1</text>
+<line x1='1828.6' y1='295.0' x2='1829.7' y2='291.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1829.7' y1='291.1' x2='1831.8' y2='283.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1831.8' y1='283.4' x2='1832.8' y2='279.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1840.1" y="277.4" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(285.3,1840.1,277.4)" >FAM188B</text>
+<line x1='2623.2' y1='953.8' x2='2626.8' y2='952.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2626.8' y1='952.1' x2='2634.0' y2='948.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2634.0' y1='948.6' x2='2637.6' y2='946.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2644.1" y="950.9" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(334.1,2644.1,950.9)" >EHBP1L1</text>
+<line x1='2394.9' y1='628.7' x2='2397.7' y2='625.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2397.7' y1='625.9' x2='2403.5' y2='620.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2403.5' y1='620.3' x2='2406.3' y2='617.5' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2413.7" y="619.4" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(315.8,2413.7,619.4)" >COL11A2</text>
+<line x1='2650.7' y1='1985.6' x2='2654.4' y2='1987.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2654.4' y1='1987.2' x2='2661.8' y2='1990.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2661.8' y1='1990.3' x2='2665.5' y2='1991.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2666.8" y="1998.9" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(22.9,2666.8,1998.9)" >TMEM53</text>
+<line x1='2190.4' y1='459.2' x2='2192.7' y2='455.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2192.7' y1='455.9' x2='2197.1' y2='449.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2197.1' y1='449.2' x2='2199.3' y2='445.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2206.9" y="446.1" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(303.6,2206.9,446.1)" >SLC6A19</text>
+<line x1='2737.9' y1='1334.2' x2='2741.9' y2='1333.7' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2741.9' y1='1333.7' x2='2749.8' y2='1332.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2749.8' y1='1332.6' x2='2753.8' y2='1332.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2758.6" y="1337.5" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(352.4,2758.6,1337.5)" >unknown</text>
+<line x1='2748.6' y1='1466.8' x2='2752.6' y2='1466.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2752.6' y1='1466.6' x2='2760.6' y2='1466.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2760.6' y1='1466.4' x2='2764.6' y2='1466.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2768.7" y="1472.2" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(358.5,2768.7,1472.2)" >unknown</text>
+<line x1='2745.0' y1='1599.7' x2='2749.0' y2='1600.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2749.0' y1='1600.0' x2='2757.0' y2='1600.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2757.0' y1='1600.6' x2='2761.0' y2='1600.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2764.5" y="1607.2" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(4.6,2764.5,1607.2)" >unknown</text>
+<line x1='2244.9' y1='2502.6' x2='2247.2' y2='2505.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2247.2' y1='2505.8' x2='2252.0' y2='2512.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2252.0' y1='2512.2' x2='2254.4' y2='2515.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2252.0" y="2522.2" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(53.4,2252.0,2522.2)" >unknown</text>
+<line x1='1045.2' y1='336.8' x2='1043.7' y2='333.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1043.7' y1='333.0' x2='1040.8' y2='325.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1040.8' y1='325.6' x2='1039.3' y2='321.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1032.3" y="320.3" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(68.6,1032.3,320.3)" >unknown</text>
+<line x1='1171.4' y1='295.0' x2='1170.3' y2='291.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1170.3' y1='291.1' x2='1168.2' y2='283.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1168.2' y1='283.4' x2='1167.2' y2='279.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1160.3" y="277.3" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(74.7,1160.3,277.3)" >unknown</text>
+<line x1='2134.1' y1='2576.1' x2='2136.1' y2='2579.5' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2136.1' y1='2579.5' x2='2140.2' y2='2586.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2140.2' y1='2586.4' x2='2142.2' y2='2589.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2138.6" y="2596.6" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(59.5,2138.6,2596.6)" >ZNF451</text>
+<line x1='2347.2' y1='2417.7' x2='2349.9' y2='2420.7' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2349.9' y1='2420.7' x2='2355.4' y2='2426.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2355.4' y1='2426.6' x2='2358.1' y2='2429.5' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2356.4" y="2436.5" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(47.3,2356.4,2436.5)" >OR2W3</text>
+<line x1='2016.1' y1='2637.4' x2='2017.8' y2='2641.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2017.8' y1='2641.0' x2='2021.1' y2='2648.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2021.1' y1='2648.3' x2='2022.7' y2='2652.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2018.4" y="2658.3" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(65.6,2018.4,2658.3)" >DGAT1</text>
+<line x1='1698.7' y1='266.9' x2='1699.3' y2='263.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1699.3' y1='263.0' x2='1700.6' y2='255.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1700.6' y1='255.1' x2='1701.2' y2='251.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1707.8" y="248.1" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(279.2,1707.8,248.1)" >UBE2B</text>
+<line x1='2482.4' y1='728.7' x2='2485.5' y2='726.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2485.5' y1='726.2' x2='2491.8' y2='721.3' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2491.8' y1='721.3' x2='2495.0' y2='718.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2501.8" y="721.1" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(321.9,2501.8,721.1)" >EXOC5</text>
+<line x1='1566.5' y1='252.8' x2='1566.7' y2='248.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1566.7' y1='248.8' x2='1567.1' y2='240.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1567.1' y1='240.8' x2='1567.3' y2='236.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1574.0" y="233.2" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(273.1,1574.0,233.2)" >MINK1</text>
+<line x1='2558.8' y1='837.5' x2='2562.2' y2='835.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2562.2' y1='835.4' x2='2569.0' y2='831.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2569.0' y1='831.1' x2='2572.4' y2='829.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2579.2" y="832.4" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(328.0,2579.2,832.4)" >RDH10</text>
+<line x1='2674.9' y1='1076.3' x2='2678.7' y2='1074.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2678.7' y1='1074.9' x2='2686.2' y2='1072.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2686.2' y1='1072.2' x2='2690.0' y2='1070.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2695.9" y="1075.6" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(340.2,2695.9,1075.6)" >ETAA1</text>
+<line x1='1632.8' y1='2741.9' x2='1633.2' y2='2745.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1633.2' y1='2745.9' x2='1634.0' y2='2753.9' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1634.0' y1='2753.9' x2='1634.5' y2='2757.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1628.4" y="2762.5" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(83.9,1628.4,2762.5)" >SOCS1</text>
+<line x1='2522.1' y1='2217.9' x2='2525.3' y2='2220.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2525.3' y1='2220.2' x2='2531.9' y2='2224.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2531.9' y1='2224.8' x2='2535.2' y2='2227.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2535.0" y="2234.3" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(35.1,2535.0,2234.3)" >FCRL6</text>
+<line x1='2075.9' y1='391.7' x2='2077.7' y2='388.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2077.7' y1='388.1' x2='2081.4' y2='381.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2081.4' y1='381.0' x2='2083.3' y2='377.5' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2090.9" y="377.0" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(297.5,2090.9,377.0)" >IPO13</text>
+<line x1='2297.2' y1='538.5' x2='2299.7' y2='535.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2299.7' y1='535.4' x2='2304.8' y2='529.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2304.8' y1='529.2' x2='2307.4' y2='526.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2314.9" y="527.2" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(309.7,2314.9,527.2)" >HFM1</text>
+<line x1='2592.6' y1='2105.2' x2='2596.1' y2='2107.1' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2596.1' y1='2107.1' x2='2603.1' y2='2111.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2603.1' y1='2111.0' x2='2606.6' y2='2113.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2607.2" y="2120.1" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(29.0,2607.2,2120.1)" >SDHC</text>
+<line x1='2713.3' y1='1203.6' x2='2717.2' y2='1202.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2717.2' y1='1202.6' x2='2725.0' y2='1200.7' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='2725.0' y1='1200.7' x2='2728.9' y2='1199.8' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="2734.2" y="1204.7" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(346.3,2734.2,1204.7)" >NEK2</text>
+<line x1='1764.0' y1='2720.8' x2='1764.9' y2='2724.7' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1764.9' y1='2724.7' x2='1766.6' y2='2732.5' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1766.6' y1='2732.5' x2='1767.4' y2='2736.4' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1762.4" y="2741.6" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(77.8,1762.4,2741.6)" >MBIP</text>
+<line x1='1892.3' y1='2685.8' x2='1893.5' y2='2689.6' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1893.5' y1='2689.6' x2='1896.1' y2='2697.2' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<line x1='1896.1' y1='2697.2' x2='1897.3' y2='2701.0' style="stroke-width:2.0;stroke:rgb(150,150,150);stroke-linecap:round;fill:none;" />
+<text x="1892.4" y="2706.8" font-size="15.6px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(71.7,1892.4,2706.8)" >TLE1</text>
+</g>
+<g id="plot1">
+<g id="plot1-axis">
+</g>
+<text x="336.3" y="1344.2" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-82.4,336.3,1344.2)" >Tryptophan<tspan baseline-shift="-40%" font-size="90%">m</tspan>etabolite</text>
+<text x="329.6" y="1720.7" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(79.3,329.6,1720.7)" >Glycerophospholipid</text>
+<text x="851.0" y="521.6" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-33.6,851.0,521.6)" >Proteobacteria</text>
+<text x="739.8" y="2416.9" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(39.7,739.8,2416.9)" >Acylcarnitine</text>
+<text x="375.9" y="1161.1" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-73.2,375.9,1161.1)" >Unassigned</text>
+<text x="616.4" y="726.9" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-48.8,616.4,726.9)" >Firmicutes</text>
+<text x="2527.0" y="931.1" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(421.0,2527.0,931.1)" >TSS1500</text>
+<text x="2673.6" y="1468.7" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(448.5,2673.6,1468.7)" >unknown</text>
+<text x="1131.3" y="385.4" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-18.3,1131.3,385.4)" >unknown</text>
+<text x="2624.1" y="1161.1" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(433.2,2624.1,1161.1)" >TSS200</text>
+<text x="1562.5" y="327.6" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(363.1,1562.5,327.6)" >1stExon</text>
+<text x="1985.1" y="430.9" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(384.4,1985.1,430.9)" >5'UTR</text>
+<text x="1748.2" y="352.5" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(372.2,1748.2,352.5)" >3'UTR</text>
+<text x="1751.1" y="2661.2" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-12.2,1751.1,2661.2)" >chr14</text>
+<text x="1626.3" y="2681.3" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-6.1,1626.3,2681.3)" >chr16</text>
+<text x="1500.0" y="2688.1" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(0.0,1500.0,2688.1)" >chr21</text>
+<text x="2296.4" y="637.3" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(402.7,2296.4,637.3)" >Body</text>
+<text x="2472.2" y="2182.9" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-54.9,2472.2,2182.9)" >chr1</text>
+<text x="2208.5" y="2453.7" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-36.6,2208.5,2453.7)" >chr3</text>
+<text x="2103.1" y="2523.6" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-30.5,2103.1,2523.6)" >chr6</text>
+<text x="1990.9" y="2581.9" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-24.4,1990.9,2581.9)" >chr8</text>
+<text x="1873.1" y="2627.9" font-size="18.2px" font-family="CMUSansSerif-DemiCondensed" style="text-anchor:middle;fill:rgb(0,0,0);" transform="rotate(-18.3,1873.1,2627.9)" >chr9</text>
+</g>
+<defs>
+<pattern id="hline-sparse" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:2" /></pattern>
+<pattern id="checker" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:2" /><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:2" /></pattern>
+<pattern id="checker" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:5" /><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:4" /></pattern>
+<pattern id="hline" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:5" /></pattern>
+<pattern id="vline-sparse" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:2" /></pattern>
+<pattern id="vline" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:5" /></pattern>
+</defs>
+</svg>
