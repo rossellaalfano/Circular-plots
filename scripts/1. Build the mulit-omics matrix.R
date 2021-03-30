@@ -1,7 +1,7 @@
 #####################Build the correlation matrix#####################
 rm(list = ls())
 ##set your working directory here
-setwd("G:/My Drive/microbiome_workshop/data/omics/")#change the path to the one where you stored the 4 omic datasets
+setwd("data/omics/")#change the path to the one where you stored the 4 omic datasets
 ##read the name of the datasets you are going to integrate
 file_list <- list.files()#please, note that this function reads all the files that are in the folder, so make sure only the 4 omic datasets are in the folder
 file_list <- grep(file_list[nchar(file_list) > 12 & nchar(file_list) < 20], pattern = '.rds', value = TRUE)
