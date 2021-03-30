@@ -1,7 +1,7 @@
 #####################Draw the links#####################
 rm(list = ls())
 ##set your working directory here
-setwd("G:/My Drive/microbiome_workshop/data/")#change the path to the one where you stored the folders "multi_omics", "annotation" and "circos_files" 
+setwd("data/")#change the path to the one where you stored the folders "multi_omics", "annotation" and "circos_files" 
 ##read the multiomics matrix
 readRDS("multi_omics_matrix/multiomics_matrix.rds")->dataset
 
