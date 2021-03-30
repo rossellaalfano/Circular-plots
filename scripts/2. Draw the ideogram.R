@@ -1,7 +1,7 @@
 #####################Draw the ideogram#####################
 rm(list = ls())
 ##set your working directory here
-setwd("G:/My Drive/microbiome_workshop/data/")#change the path to the one where you stored the folders "multi_omics", "annotation" and "circos_files" 
+setwd("data/")#change the path to the one where you stored the folders "multi_omics", "annotation" and "circos_files" 
 
 ##read the annotation
 readRDS("annotation/ideogram_annotation.rds")->annot
