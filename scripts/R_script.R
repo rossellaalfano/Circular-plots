@@ -160,4 +160,5 @@ writeLinks <- function(dataset, annot, fileout="data/circos_files/links.txt") {#
 ##check they are characters
 writeLinks(dataset,annot)
 
-
+shell(cmd = "/circos-0.69-9/bin/circos -conf circos_files/ideogram.conf -outputfile ideogram.png -outputdir /circos-0.69-9/etc/circos_files")
+shell(cmd = "/circos-0.69-9/bin/circos -conf circos_files/links.conf -outputfile links.png -outputdir /circos-0.69-9/etc/circos_files")
