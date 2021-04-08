@@ -14,13 +14,13 @@ We highly recommend that you download the simulated [multi-omics matrix](https:/
 
 - [Download Circos](http://circos.ca/software/download/circos/)
 - [Install Circos](http://circos.ca/software/installation/)
-- [Download the multi-omics matrix](https://github.com/rossellaalfano/Circular-plots/blob/main/1.%20Download%20the%20multi-omics%20matrix.md)
+- [Download the multi-omics matrix](https://github.com/rossellaalfano/Circular-plots/blob/main/1_DownloadMultiOmics.md)
 
 # Tutorials
 
-- [Draw the ideogram](https://github.com/rossellaalfano/Circular-plots/blob/main/2.%20Draw%20the%20ideogram.md)
-- [Draw the links](https://github.com/rossellaalfano/Circular-plots/blob/main/3.%20Draw%20the%20links.md)
-- [Run Circos](https://github.com/rossellaalfano/Circular-plots/blob/main/4.%20Run%20circos.md)
+- [Draw the ideogram](https://github.com/rossellaalfano/Circular-plots/blob/main/2_DrawIdeogram.md)
+- [Draw the links](https://github.com/rossellaalfano/Circular-plots/blob/main/3_DrawLinks.md)
+- [Run Circos](https://github.com/rossellaalfano/Circular-plots/blob/main/4_RunCircos.md)
 
 # Glossary
 
