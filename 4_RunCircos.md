@@ -11,11 +11,11 @@ this tutorial in the “circos\_files” folder
 This folder contains 4 files generated via this tutorial:
 
 -   karyotype.txt, band\_labels.txt and labels.txt can be generated
-    following this tutorial
-    [here](https://github.com/rossellaalfano/Circular-plots/blob/main/2.%20Draw%20the%20ideogram.md)
+    following the tutorial on how to [Draw the ideogram]
+   (https://github.com/rossellaalfano/Circular-plots/blob/main/2_DrawIdeogram.md)
 
--   links.txt can be generated following this tutorial
-    [here](https://github.com/rossellaalfano/Circular-plots/blob/main/3.%20Draw%20the%20links.md)
+-   links.txt can be generated following this tutorial on how to [Draw the links]
+    (https://github.com/rossellaalfano/Circular-plots/blob/main/3_DrawLinks.md)
 
 3 configuration files (provided):
 
