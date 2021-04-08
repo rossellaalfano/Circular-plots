@@ -141,5 +141,5 @@ Now that you have all the files needed for plotting the ideogram:
 -   labels.txt
 
 You can [Run
-Circos](https://github.com/rossellaalfano/Circular-plots/blob/main/4.%20Run%20circos.md)
+Circos](https://github.com/rossellaalfano/Circular-plots/blob/main/4_RunCircos.md)
 to draw your ideogram!
