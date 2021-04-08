@@ -64,5 +64,5 @@ writeLinks(dataset,annot)
 Now the links.txt is ready for use.
 
 You can [Run
-Circos](https://github.com/rossellaalfano/Circular-plots/blob/main/4.%20Run%20circos.md)
+Circos](https://github.com/rossellaalfano/Circular-plots/blob/main/4_RunCircos.md)
 to plot the ideogram with links!
